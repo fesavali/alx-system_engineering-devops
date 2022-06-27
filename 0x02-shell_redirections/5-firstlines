@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "head -5 /etc/passwd"
