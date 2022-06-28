@@ -1,3 +1,2 @@
 #!/bin/bash
-value=$(</etc/passwd)
-echo "$value"
+cat /etc/passwd
