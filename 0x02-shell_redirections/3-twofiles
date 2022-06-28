@@ -1,5 +1,2 @@
 #!/bin/bash
-file=$(</etc/passwd)
-file1=$(</etc/hosts)
-echo "$file1"
-echo "$file"
+cat /etc/passwd /etc/hosts
