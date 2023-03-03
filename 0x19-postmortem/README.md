@@ -1,0 +1,5 @@
+Working in IT, we all know that from time to time, things go off the rails, despite our planning and best intentions. When things go really wrong, you might be asked to write an Incident Report that can be shared with senior executives, fellow staff, or even customers. I recommend you go through this process whether anyone will read these or not, since it can serve as a guide, and you will be analyzing your environment when things go wrong, and building ways to prevent the same types of failures moving forward.
+
+When I read Google’s Incident report about a their API service outage, it struck a cord with me, because it seemed to answer all of my questions, and helped give the impression they know what they were doing. We are not going to read the entire report, but lets look at the reports structure, and several things mentioned in it.
+
+The structure is actually surprisingly simple and yet powerful. The report is made up of five parts, an issue summary, a timeline, root cause analysis, resolution and recovery, and lastly, corrective and preventative measures. Lets review each of these parts in detail
